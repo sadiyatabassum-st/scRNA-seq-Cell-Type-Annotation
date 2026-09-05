@@ -1,0 +1,22 @@
+Cell Type,Marker Gene,Mean Expression,% Cells Expressing,Cells in Type,Validation
+B cells,CD79A,4.3159,93.62,345,Strong
+B cells,CD74,27.0696,100.0,345,Strong
+Classical monocytes,LYZ,45.886,100.0,430,Strong
+Classical monocytes,S100A8,17.7372,99.07,430,Strong
+Classical monocytes,S100A9,33.1488,99.53,430,Strong
+Non-classical monocytes,LST1,15.9183,100.0,208,Strong
+Non-classical monocytes,FCGR3A,6.6587,87.5,208,Strong
+Non-classical monocytes,AIF1,14.6106,100.0,208,Strong
+NK cells,NKG7,24.46,100.0,150,Strong
+NK cells,GNLY,19.1867,94.0,150,Strong
+NK cells,GZMB,9.96,98.67,150,Strong
+Cytotoxic T cells,CCL5,9.4787,95.12,328,Strong
+Cytotoxic T cells,GZMK,2.1402,58.54,328,Moderate
+Dendritic cells,FCER1A,7.3056,86.11,36,Strong
+Dendritic cells,CLEC10A,2.4444,72.22,36,Moderate
+Platelets,PF4,19.2308,100.0,13,Strong
+Platelets,PPBP,42.3077,100.0,13,Strong
+Platelets,GP9,4.3077,92.31,13,Strong
+T cells,CD2,0.9504,51.86,1128,Moderate
+T cells,LTB,6.4069,93.71,1128,Strong
+T cells,GIMAP7,1.5754,69.24,1128,Moderate

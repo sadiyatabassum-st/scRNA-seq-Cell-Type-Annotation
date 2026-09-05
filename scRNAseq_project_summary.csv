@@ -1,0 +1,8 @@
+Metric,Value
+Cells analyzed,2638
+Genes retained,2000
+Leiden clusters,9
+Annotated cell types,8
+Missing annotations,0
+PCA dimensions,50
+UMAP dimensions,2
